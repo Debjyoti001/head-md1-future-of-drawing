@@ -1,0 +1,1 @@
+Today's explorations have led me to work on art exercises packed into a small exercises. My next prototype will be an attempt to create a device that holds up pieces of paper while it makes the artist do simple drawing exercises based on two attributes : 1. a timer, 2. a difficulty/ proficiency level
