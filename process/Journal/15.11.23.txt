@@ -1,1 +1,5 @@
-Today's explorations have led me to work on art exercises packed into a small exercises. My next prototype will be an attempt to create a device that holds up pieces of paper while it makes the artist do simple drawing exercises based on two attributes : 1. a timer, 2. a difficulty/ proficiency level
+Today's explorations have led me to work on a device with art exercises packed into a small exercises. My next prototype will be an attempt to create a device that holds up pieces of paper while it makes the artist do simple drawing exercises based on two attributes : 1. a timer, 2. a difficulty/ proficiency level, 3. feedback/achievements through an app. 
+user tests: 
+test 1. feedback insights: The timer and  in one place are too confusing. Hard to notice timer going down as time changes. Too focused on drawing. Finished drawing too fast.
+test 2. feedback insights: Hard to understand what the timer is, focus first went to diffuclty part of slider.
+Device changes 1: added timer slider to the right.
