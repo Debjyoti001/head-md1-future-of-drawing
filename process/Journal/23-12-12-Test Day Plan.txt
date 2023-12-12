@@ -1,0 +1,9 @@
+A/B Testing: The aim will be to do interaction testing with two seperate product designs. the base body will be the same but the difficulty meter will be set differently. One will use a normal potentiometer and another will use a slider potentiometer. 
+
+1. Slider potentiometer will be set to the top of the body. 
+
+2. Normal pot will set to the side of the body.
+
+The general interaction will be the same but the placement of buttons and pots are yet to be tested out.
+
+A/B Testing 2: Test audio feedback for task completion/ failure versus analog feedback.
