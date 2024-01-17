@@ -110,7 +110,7 @@
 #### - The normal pot device could also be used in one hand, if the pot and buttons could be pushed towards the middle. A smaller potentiometer head could be the difference between whether the user intuitively uses the device with one hand.
 
 #### Afternoon Session:
-#### ------------------
+#### -----------------------
 
 #### Feedback (Leonie & Hanieh):
 #### (Leonie has an artistic background and had important insights)
@@ -121,7 +121,30 @@
 #### - Hanieh did not like the timer ending and the failure screen at all. Hated the experience of seeings iconography like right and wrong. Focus on positive exposure for artists.
 
 #### ((PERSONAL REMINDER TO GO BACK TO THE RECORDINGS FOR FURTHER RESEARCH))
-#### --------------------------------------------------------------
+#### -----------------------------------------------------------------------------
+
+### 23.12.21
+#### 3D modelling work mostly done. Feeling pretty confident about the 3D work done as of yet. Set an appointment with the Digital Atelier for opening day, Jan 8. Feeling under confident with the code and electronics work because I have not received my Electronics stuff I ordered yet. Will try and learn processing for Pi a bit during the break so that I am atleast somewhat prepared for when I receive the stuff.
+#### -----------------------------------------------------------------------------
+### Christmas holiday update:
+#### ![Screenshot 2023-12-27 213738](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/6f10f270-d419-42c4-87dc-a0c2bfb69a69)
+#### Above: Simple ARPG developed on Godot.
+#### ![Screenshot 2024-01-17 132445](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/dc259525-1b6d-4044-ac95-6f752da9cc2f)
+#### Above: Simple ball catching AR game I developed to teach myself the basics of Unity.
+#### Spent the holidays working on learning Unity, prototyping a couple of new games om Unity and Godot respectively. I tried my best to set up my laptop as a display for the Raspberry Pi I borrowed from school but I couldnt understand and implement the complex technical requirements for it. Gave up anf focused on further ideating the User Journey and polishing the 3D model of my prototype. 
+#### -----------------------------------------------------------------------------
+
+### 24.01.08
+#### Started applying finishing touches to the 3D model, Laure helped me figure out the design required to set up buttons on the final prototype. Still have not received my Electronics I ordered for the prototyping. Currently contemplating whether or not to making a non-working prototype and set up the user interface showcase through an interactive design created on my pc.
+
+### 24.1.11
+#### Current emotion: DESPAIR.
+#### I have given up on receiving the electronics and am currently halfway into building the Interactive experience on Unity. Still have not received the ordered electronics, soI have decided to just display a static screen on my device when I do receive it while I design and showcase the bulk of the demo interface from my laptop on Unity. Crating the first presentation draft for Douglas's revision today.
+#### Feedback on Unity Demo:
+#### 1. Find a way to make the design appear scalable and crisp for a smaller screen size. Refer to Rabbit OS (recently released hand computer device)
+#### 2. Current design langugae doesn't appear very 'Swiss'. Fix the buttons, find a way to exaggerate the Caran d'Ache font.
+
+
 
  
 
