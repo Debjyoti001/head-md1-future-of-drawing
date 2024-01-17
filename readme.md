@@ -111,8 +111,8 @@
 #### - Make clear instructions in a manual if possible. 
 #### - Volume button/ slider- Lower volume option/ No volume option.
 
-#### Feedback (Dorian):
 #### ![20231214_134342](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/7db6996f-a766-4e5c-9537-f25ec7525258)
+#### Feedback (Dorian):
 #### - Visual iconography beside the slider/ normal potentiometer could match the visuals on the screen as a sign that user is supposed to use the pot to select from among options.
 #### - Does not like the term 'Reset' as it could mean the repitition of the same drawing.
 #### - After drawing completed/ failed, a Retry menu could be brought in again with same format as Difficulty selection menu. Then the slider/ normal pot could have multiple uses for the user experience and be as mono usage.
@@ -160,7 +160,8 @@
 
 ### 24.01.17 
 ### JURY DAY
-#### ![Render_Final_1](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/4d46aa05-b3a5-422a-8d45-71d23d762876)
+#### ![20240117_102951](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/359600fc-2d1e-441f-97df-f117775a5e3f)
+
 #### Feedback: 
 #### -Felicien and Pierre seemed unconvinced about the need for the product as compared to an app. My reasoning from the very beginning has been simple, the devices themselves( smartphones, Ipads, computers etc.) on which drawing apps are generally available also contain a plethora of other distractions incredibly well designed. In a world of distracting apps and short attention spans, this potentional product seperates the User Experience of learning to draw from these distracting devices and platforms. A straight forward, analog like gamified experience ties the experience together into focus-inducing educational art sessions.
 #### -Douglas jokingly remarked that adding a sling to this device allows for a very artsy look for an artist visiting the Lourve haha/
