@@ -68,8 +68,12 @@
 #### Third day of electronics classes just wrapping up today. Properly experimenting on working with the potentiometer along side a variety of components as it is going to be really important to me. Excited to try this stuff out on working towards my device soon.
 #### ![IMG-20231129-WA0028](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/0bb50ebb-a187-4a64-9800-61950bd433cc)
 
+### 23.12.09
+#### The sketches and model work have been primarily leading me towards designing a device that looks analog, has simple functionality and reminds one of art. The primary decision to have a 15 degree tilt to the screen is because of the potential familiarity it will bring with drawing on evelated surfaces. Not to mention, it will definitely help with better viewing angles when the device is places on a flat surface facing the user.
+#### ![20231212_093217](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/17d5d152-e45e-4009-93da-1716ee9198f9)
+
 ### 23.12.11
-#### Been a hectic few days. Finished up my job interview rounds for my Graduation internship in India and then focused on the 3D Modelling and sketching for the past few days. Updating my electronics documentation today. Ordered all required parts for the project finalisation and finishing up my 3D modelling over the next few days.
+#### Been a hectic few days. Finished up my job interview rounds for my Graduation internship in India. Focused on the 3D Modelling and sketching for the past few days after that. Updating my electronics documentation today. Ordered all required parts for the project finalisation and finishing up my 3D modelling over the next few days.
 
 ### 23.12.12
 #### A/B Testing 1: The aim will be to do interaction testing with two seperate product designs. the base body will be the same but the difficulty meter will be set differently. One will use a normal potentiometer and another will use a slider potentiometer. 
@@ -131,7 +135,7 @@
 #### Above: Simple ARPG developed on Godot.
 #### ![Screenshot 2024-01-17 132445](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/dc259525-1b6d-4044-ac95-6f752da9cc2f)
 #### Above: Simple ball catching AR game I developed to teach myself the basics of Unity.
-#### Spent the holidays working on learning Unity, prototyping a couple of new games om Unity and Godot respectively. I tried my best to set up my laptop as a display for the Raspberry Pi I borrowed from school but I couldnt understand and implement the complex technical requirements for it. Gave up anf focused on further ideating the User Journey and polishing the 3D model of my prototype. 
+#### Spent the holidays working on learning Unity, prototyping a couple of new games om Unity and Godot respectively. I tried my best to set up my laptop as a display for the Raspberry Pi I borrowed from school but I couldnt understand and implement the complex technical requirements for it. Gave up and focused on further ideating the User Journey and polishing the 3D model of my prototype. 
 #### -----------------------------------------------------------------------------
 
 ### 24.01.08
@@ -140,10 +144,21 @@
 ### 24.1.11
 #### Current emotion: DESPAIR.
 #### I have given up on receiving the electronics and am currently halfway into building the Interactive experience on Unity. Still have not received the ordered electronics, soI have decided to just display a static screen on my device when I do receive it while I design and showcase the bulk of the demo interface from my laptop on Unity. Crating the first presentation draft for Douglas's revision today.
-#### Feedback on Unity Demo:
+#### Douglas's feedback regarding the Unity Demo:
 #### 1. Find a way to make the design appear scalable and crisp for a smaller screen size. Refer to Rabbit OS (recently released hand computer device)
 #### 2. Current design langugae doesn't appear very 'Swiss'. Fix the buttons, find a way to exaggerate the Caran d'Ache font.
 
+### 24.01.16
+#### ![Screenshot 2024-01-16 173444](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/0aef4a4b-c079-469c-bf39-230c2a7ac600)
+#### Panic mode on. Made many many concessions regarding my 3D model because I received the electronics a couple days ago, in a Friday evening 5 minutes after I left school! Gave up on making a very polished model entirely now because I had too much work to do in order to make a good Unity demo. Pretty satisfied with the Unity demo's functionality. 12:15 AM now, I have a massive headache from the stress. Signing off for the day.
+
+### 24.01.17 
+### JURY DAY
+#### ![Render_Final_1](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/4d46aa05-b3a5-422a-8d45-71d23d762876)
+#### Feedback: 
+#### Felicien and Pierre seemed unconvinced about the need for the product as compared to an app. My reasoning from the very beginning has been simple, the devices themselves( smartphones, Ipads, computers etc.) on which drawing apps are generally available also contain a plethora of other distractions incredibly well designed. In a world of distracting apps and short attention spans, this potentional product seperates the User Experience of learning to draw from these distracting devices and platforms. A straight forward, analog like gamified experience ties the experience together into focus-inducing educational art sessions.
+#### Douglas jokingly remarked that adding a sling to this device allows for a very artsy look for an artist visiting the Lourve haha/
+#### Laure questioned the color visibility issues that could potentially rise out of trying to place a piece of paper over the screen to draw. I had not thought of that angle of the user experience earlier. My aim was always straightforward with tis device, to design a device that facilitates learning through pencil drawing. 
 
 
  
