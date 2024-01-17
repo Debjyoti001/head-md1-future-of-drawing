@@ -1,6 +1,6 @@
 # My Github Project
 ## Project: ArtSpark- A pocket sized art teacher
-### Hi, my name is Debjyoti Bhowmick. I am a Digital Game Design student at the National Institute of Design, Bangalore. This is the Atelier project for my Exchange Program in Media Design at HEAD, Geneva (23.10.24-24.01.26).
+## Hi, my name is Debjyoti Bhowmick. I am a Digital Game Design student at the National Institute of Design, Bangalore. This is the Atelier project for my Exchange Program in Media Design at HEAD, Geneva (23.10.24-24.01.26).
 
 ### Devlog
 
