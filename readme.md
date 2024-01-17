@@ -5,7 +5,7 @@
 ### Devlog
 
 ### 23.10.20
-#### The aim of this project is to create a playful AI assistant like experience either in an exhibition or a product design context attuned for beginner/ amateur artists. Exploring ways to use user emotions to have the AI create and print art for the user to collaborate with.
+#### The aim of this project is to create a playful AI assistant like experience either in an exhibition or a product design context attuned for beginner/ amateur artists. Exploring ways to use user emotions to have the AI create and print art for the user to collaborate with. I have begun to conduct interviews, both telephonic and online. I am also planning to conduct art sessions with peers to try and guage insights into impromptu art. Insights and details will be detailed in research update devlogs further down the line.
 
 ### 23.10.25
 #### Currently thinking of fixed emotional states to choose from to denote a set variety of emotions to create with. I am hoping to translate these inputs into line weights/ thicknesses to create randomised artwork outputs. This idea shows promise.
