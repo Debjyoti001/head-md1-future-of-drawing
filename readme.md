@@ -53,7 +53,83 @@
 
 #### My feelings- Does it matter? :/ Gotta iterate! A lot! Scared about the upcoming electronics sessions! Slightly relieved because the faculty assured us that the device doesnt need to be entirely functional. Happy to have received positive feedback today! Looking forward to implement the changes as per the feedbacks!
 
-#### Personal note: diversify the experience now. imagine a variety of sketching exercises that arent neccessarily challenging, but could move into different parameters of growth as an artist?  
+#### Personal note: diversify the experience now. imagine a variety of sketching exercises that arent neccessarily challenging, but could move into different parameters of growth as an artist? 
+
+### 23.11.19
+#### Not much to add, thought of the topic over the weekend. I am wondering about how I could changed up the usage experience to make it feel more natural, akin to using a sketchbook? Some other user experiences to keep in mind are the natural usage of pencils, erasers and sharpeners? Could they inducted into the product design?
+
+### 23.11.22
+#### Nothing much to add. The past few days have been pretty hectic , with the podcast assignment and the Lausanne travel daily. I will get to sketching for a little while tomorrow though, based on how I want to integrate the semblance of the act of sketching on a sketchbook into the user interaction with my device. That could really help unlock avenues of seamless integration into user psyches. I hope to revisit this thought later when working on the product's shape and feel.
+
+### 23.11.26
+#### Nothing much happened over the weekend. Thought of the interaction changes over the weekend for a bit. Was pretty busy with placement work back in India. Pretty excited and scared for the electronics classes with Pierre, starting tomorrow.
+
+### 23.11.29
+#### Third day of electronics classes just wrapping up today. Properly experimenting on working with the potentiometer along side a variety of components as it is going to be really important to me. Excited to try this stuff out on working towards my device soon.
+#### ![IMG-20231129-WA0028](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/0bb50ebb-a187-4a64-9800-61950bd433cc)
+
+### 23.12.11
+#### Been a hectic few days. Finished up my job interview rounds for my Graduation internship in India and then focused on the 3D Modelling and sketching for the past few days. Updating my electronics documentation today. Ordered all required parts for the project finalisation and finishing up my 3D modelling over the next few days.
+
+### 23.12.12
+#### A/B Testing 1: The aim will be to do interaction testing with two seperate product designs. the base body will be the same but the difficulty meter will be set differently. One will use a normal potentiometer and another will use a slider potentiometer. 
+#### 1. Slider potentiometer will be set to the top of the body. 
+#### 2. Normal pot will set to the side of the body.
+#### The in-screen interaction will be the same but the exact placement of buttons and potentimeters are yet to be tested out.
+#### A/B Testing 2: Test audio feedback for task completion/ failure versus analog feedback for task completion/ failure.
+
+### 23.12.13
+#### Updated the testing plan a bit for tomorrow. Finalising the testing prototypes. 
+#### ![Normal Pot Prototype](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/2810fd7e-ea7f-4eab-a4d6-d80e8a7281ce)
+#### ![Slider Pot Prototype](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/3804631a-1945-4482-923f-71be5bab00fa)
+#### Soldering exercise done. Made a few mistakes. Burnt a finger slightly. Made a cold solder joint and then tried my best to fix it with a desoldering pump. Fucked up a bit here and there. Overally, I liked my progress. Not bad for a first timer I'd say. :D
+#### ![Soldering Exercise_Closeup](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/466babec-2ae4-4c01-b807-58a467abeb49)
+
+### 
+#### Morning Session:
+#### ----------------
+
+#### Feedback (Katya):
+#### - "Amazing! Lets do this again!"- Wording unclear. Makes it seem like the same drawing will be repeated. (Normal Pot Device)
+#### -  Would prefer buttons on the side, would prefer slider pot device shape because of personal bias. Would not prefer normal pot because it sticks out. Feels the slider pot device has more originality of shape.
+
+#### Feedback (Flore):
+#### - The bird iconography was unclear.
+#### - Forgot to press 'Finish' after completing sketch. Was very involved in the process of timing the sketch right.
+#### - Struggled to find Power button in Slider Pot potentiometer.
+#### - Two seperate buttons for Reset/ Finish are neccessary. 
+#### - Found the overall experience to be clear mostly. 
+#### - Make clear instructions in a manual if possible. 
+#### - Volume button/ slider- Lower volume option/ No volume option.
+
+#### Feedback (Dorian):
+#### - Visual iconography beside the slider/ normal potentiometer could match the visuals on the screen as a sign that user is supposed to use the pot to select from among options.
+#### - Does not like the term 'Reset' as it could mean the repitition of the same drawing.
+#### - After drawing completed/ failed, a Retry menu could be brought in again with same format as Difficulty selection menu. Then the slider/ normal pot could have multiple uses for the user experience and be as mono usage.
+#### - The slider pot looks like a desk only device, the slider could be damageable. The normal pot device could be very portable with the normal pot having a small head to make it tkae up less space. 
+#### - The normal pot device could also be used in one hand, if the pot and buttons could be pushed towards the middle. A smaller potentiometer head could be the difference between whether the user intuitively uses the device with one hand.
+
+#### Afternoon Session:
+#### ------------------
+
+#### Feedback (Leonie & Hanieh):
+#### (Leonie has an artistic background and had important insights)
+#### -Add options to timer? Allow pausing to timer?
+#### -Remove judgemental features
+#### -Focus on personalisation of the experience.
+#### -Move away from trying to cater to all types of artist and try to focus further on a single type of artist. For example, either learning practice for beginners to intermediates or pure practice for experts. The product shouldnt cater to all types of users. Choose a lane.
+#### - Hanieh did not like the timer ending and the failure screen at all. Hated the experience of seeings iconography like right and wrong. Focus on positive exposure for artists.
+
+#### ((PERSONAL REMINDER TO GO BACK TO THE RECORDINGS FOR FURTHER RESEARCH))
+#### --------------------------------------------------------------
+
+ 
+
+
+
+
+
+
 
 
 
