@@ -48,6 +48,9 @@
 #### 2. Maybe reimagine how the diffculty is spoken about, instead of judging the user with terms like 'beginner' or ,novice', the parameters could be visual. Eg: a turtle to a hare.
 #### 3. Try to reimagine the feel of the smartphone like device, think of the act of flipping a sketchbook to make sketches. How could an experience like this fit seamlessly into a sketching session? This could help me move out of that 'tech' device like direction.
 #### Sophie (from Caran d'Ache) asked multiple times for feedback about the user experience. Maybe auditory/visual feedback for successfully completing tasks? Or touch feedback in the form design of the device? 
+#### The presentation pdf used has been attached underneath:
+#### [Carah d'Ache Presentation_16.11.23.pdf](https://github.com/Debjyoti001/head-md1-future-of-drawing/files/13964443/Carah.d.Ache.Presentation_16.11.23.pdf)
+
 
 #### IMPORTANT FEEDBACK FROM SOPHIE TO DOUGLAS REGARDING MY PROJECT: "Sophie wondered about whether the device could teach you stuff like shading? How do you turn this device into a methodical/ organic teacher? Think of how you can have a conversation with the device during the user experience, a sort of back and forth that can happen to create a mentoring experience for the user."
 
@@ -69,11 +72,13 @@
 #### ![IMG-20231129-WA0028](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/0bb50ebb-a187-4a64-9800-61950bd433cc)
 
 ### 23.12.09
-#### The sketches and model work have been primarily leading me towards designing a device that looks analog, has simple functionality and reminds one of art. The primary decision to have a 15 degree tilt to the screen is because of the potential familiarity it will bring with drawing on evelated surfaces. Not to mention, it will definitely help with better viewing angles when the device is places on a flat surface facing the user.
+#### I have attached a pdf that shows the initial ideas regarding possible design identities herewith:
+#### [Design Identity Exploration.pdf](https://github.com/Debjyoti001/head-md1-future-of-drawing/files/13964086/Design.Identity.Exploration.pdf)
+#### The sketches and research work have been primarily leading me towards designing a device that looks analog, has simple functionality and reminds one of art. The primary decision to have a 15 degree tilt to the screen is because of the potential familiarity it will bring with drawing on evelated surfaces. Not to mention, it will definitely help with better viewing angles when the device is places on a flat surface facing the user.
 #### ![20231212_093217](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/17d5d152-e45e-4009-93da-1716ee9198f9)
 
 ### 23.12.11
-#### Been a hectic few days. Finished up my job interview rounds for my Graduation internship in India. Focused on the 3D Modelling and sketching for the past few days after that. Updating my electronics documentation today. Ordered all required parts for the project finalisation and finishing up my 3D modelling over the next few days.
+#### Been a hectic few days. Finished up my job interview rounds for my Graduation internship in India. Focused on the 3D Modelling and sketching for the past few days after that. Updating my electronics documentation today. Ordered all required parts for the project finalisation and finishing up my 3D modelling over the next few days. 
 
 ### 23.12.12
 #### A/B Testing 1: The aim will be to do interaction testing with two seperate product designs. the base body will be the same but the difficulty meter will be set differently. One will use a normal potentiometer and another will use a slider potentiometer. 
@@ -107,6 +112,7 @@
 #### - Volume button/ slider- Lower volume option/ No volume option.
 
 #### Feedback (Dorian):
+#### ![20231214_134342](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/7db6996f-a766-4e5c-9537-f25ec7525258)
 #### - Visual iconography beside the slider/ normal potentiometer could match the visuals on the screen as a sign that user is supposed to use the pot to select from among options.
 #### - Does not like the term 'Reset' as it could mean the repitition of the same drawing.
 #### - After drawing completed/ failed, a Retry menu could be brought in again with same format as Difficulty selection menu. Then the slider/ normal pot could have multiple uses for the user experience and be as mono usage.
@@ -160,6 +166,9 @@
 #### -Douglas jokingly remarked that adding a sling to this device allows for a very artsy look for an artist visiting the Lourve haha/
 #### -Laure questioned the color visibility issues that could potentially rise out of trying to place a piece of paper over the screen to draw. I had not thought of that angle of the user experience earlier. My aim was always straightforward with tis device, to design a device that facilitates learning through pencil drawing.
 #### Lauren seemed to be very convinced by the product. She said that she has had experience with art classes and the UX emulates that experience well.
+#### The pdf attached is that of the final product pitch/ documentation and encapsulates the final vision for my product:
+#### [240117_HEAD-MD1_Caran-d-Ache_Debjyoti-Bhowmick_ArtSpark.pdf](https://github.com/Debjyoti001/head-md1-future-of-drawing/files/13963980/240117_HEAD-MD1_Caran-d-Ache_Debjyoti-Bhowmick_ArtSpark.pdf)
+
 
 
  
