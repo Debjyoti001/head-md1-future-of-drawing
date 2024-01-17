@@ -1,0 +1,4 @@
+Christmas holiday update:
+Spent the holidays working on learning Unity, prototyping a couple of new games om Unity and Godot respectively. I tried my best to set up my laptop as a display for the Raspberry Pi I borrowed from school but I couldnt understand and implement the complex technical requirements for it. Gave up anf focused on further ideating the User Journey and polishing the 3D model of my prototype.  
+24-1-8:
+Started applying finishing touches to the 3D model, Laure helped me figure out the design required to set up buttons on the final prototype. Still have not received my Electronics I ordered for the prototyping. Currently contemplating whether or not to making a non-working prototype and set up the user interface showcase through an interactive design created on my pc.

@@ -1,0 +1,5 @@
+Currently halfway into building the Interactive experience on Unity. Still have not received the ordered electronics, soI have decided to just display a static screen on my device when I do receive it while I design and showcase the bulk of the demo interface from my laptop on Unity. Crating the first presentation draft for Douglas's revision today.
+Feedback on Unity Demo:
+1. Find a way to make the design appear scalable and crisp for a smaller screen size. Refer to Rabbit OS (recently released hand computer device)
+2. Current design langugae doesn't appear Swiss like. Fix the buttons, find a way to exaggerate the Caran d'Ache font.
+
