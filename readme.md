@@ -156,9 +156,10 @@
 ### JURY DAY
 #### ![Render_Final_1](https://github.com/Debjyoti001/head-md1-future-of-drawing/assets/149476943/4d46aa05-b3a5-422a-8d45-71d23d762876)
 #### Feedback: 
-#### Felicien and Pierre seemed unconvinced about the need for the product as compared to an app. My reasoning from the very beginning has been simple, the devices themselves( smartphones, Ipads, computers etc.) on which drawing apps are generally available also contain a plethora of other distractions incredibly well designed. In a world of distracting apps and short attention spans, this potentional product seperates the User Experience of learning to draw from these distracting devices and platforms. A straight forward, analog like gamified experience ties the experience together into focus-inducing educational art sessions.
-#### Douglas jokingly remarked that adding a sling to this device allows for a very artsy look for an artist visiting the Lourve haha/
-#### Laure questioned the color visibility issues that could potentially rise out of trying to place a piece of paper over the screen to draw. I had not thought of that angle of the user experience earlier. My aim was always straightforward with tis device, to design a device that facilitates learning through pencil drawing. 
+#### -Felicien and Pierre seemed unconvinced about the need for the product as compared to an app. My reasoning from the very beginning has been simple, the devices themselves( smartphones, Ipads, computers etc.) on which drawing apps are generally available also contain a plethora of other distractions incredibly well designed. In a world of distracting apps and short attention spans, this potentional product seperates the User Experience of learning to draw from these distracting devices and platforms. A straight forward, analog like gamified experience ties the experience together into focus-inducing educational art sessions.
+#### -Douglas jokingly remarked that adding a sling to this device allows for a very artsy look for an artist visiting the Lourve haha/
+#### -Laure questioned the color visibility issues that could potentially rise out of trying to place a piece of paper over the screen to draw. I had not thought of that angle of the user experience earlier. My aim was always straightforward with tis device, to design a device that facilitates learning through pencil drawing.
+#### Lauren seemed to be very convinced by the product. She said that she has had experience with art classes and the UX emulates that experience well.
 
 
  
